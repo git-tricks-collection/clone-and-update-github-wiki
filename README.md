@@ -1,4 +1,4 @@
-# how-to-clone-github-wiki
+# how to clone and update github wiki
 <br><br>
 This is a simple note.<br>
 A classic way to clone locally, update and push github wiki.
