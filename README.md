@@ -8,7 +8,8 @@ A classic way to clone locally, update and push github wiki.
 
 -   Open terminal an write:
 
-    `cd YOUR_PROJECT_FOLDER (not raccomended the main project folder)`<br><br>
+    `cd YOUR_PROJECT_FOLDER`<br><br>
+    It's not raccomended the main repository project folder. Clone in a wrap folder all<br><br>
 
 -   After inside YOUR_PROJECT_FOLDER, in terminal
 
@@ -17,14 +18,14 @@ A classic way to clone locally, update and push github wiki.
 -   Mod your cloned wiki file for a test<br><br>
 
 -   update (push) on original github:<br>
-     ```
-     git add .
-     git commit -m "a summary message or motivation of update"
-     git push
-     ```
-     <br>
-     or more compact...<br>
+    ```
+    git add .
+    git commit -m "a summary message or motivation of update"
+    git push
+    ```
+    <br>
+    or more compact (onlylinux)...<br>
      
-     `git add .&&git commit -m" "&&git push`
+    `git add . && git commit -m" " && git push`
 
   
